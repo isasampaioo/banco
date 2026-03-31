@@ -58,7 +58,6 @@ export default function AccountForm({ onSubmit }) {
         <option value="">Selecione</option>
         <option value="Masculino">Masculino</option>
         <option value="Feminino">Feminino</option>
-        <option value="Não-binário">Não-binário</option>
       </select>
 
       {/* SLIDER */}
